@@ -1,5 +1,5 @@
 # TwoStepValidation
-A two step validation for Sign In using Google Authenticator algorithm. Built in php + mysql
+A two step validation demo using Google Authenticator algorithm. Built in php + mysql
 # How to use
 First setup a mysql database and complete the array in common.php
 Then use the file db.sql to import the table.
